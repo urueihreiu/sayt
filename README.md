@@ -43,7 +43,7 @@
 		</tr>
 	 </tbody>
      </table>
-	<h2 align=rightt>Кандидат №4 </h2>
+	<h2 align=right>Кандидат №4 </h2>
 	<table border=1>
 	<tbody>
 		<tr>
