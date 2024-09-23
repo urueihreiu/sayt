@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="ru">
 <head>
-    <title>сайтик</title>
+    
 </head>
 <body>
     <h1>Выборы в "Созвездии" 2024</h1>
